@@ -1,0 +1,51 @@
+@N: CD630 :"C:\Actelprj\repo_test\component\work\repo_test\repo_test.vhd":17:7:17:15|Synthesizing work.repo_test.rtl 
+@N: CD630 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\repo_test_MSS.vhd":17:7:17:19|Synthesizing work.repo_test_mss.rtl 
+@N: CD630 :"C:\Actelprj\repo_test\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd":24:7:24:16|Synthesizing work.outbuf_mss.def_arch 
+Post processing for work.outbuf_mss.def_arch
+@N: CD630 :"C:\Actelprj\repo_test\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd":4:7:4:15|Synthesizing work.inbuf_mss.def_arch 
+Post processing for work.inbuf_mss.def_arch
+@N: CD630 :"C:\Actelprj\repo_test\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd":65:7:65:15|Synthesizing work.bibuf_mss.def_arch 
+Post processing for work.bibuf_mss.def_arch
+@N: CD630 :"C:\Actelprj\repo_test\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd":44:7:44:17|Synthesizing work.tribuff_mss.def_arch 
+Post processing for work.tribuff_mss.def_arch
+@N: CD630 :"C:\Actelprj\repo_test\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd":87:7:87:21|Synthesizing work.bibuf_opend_mss.def_arch 
+Post processing for work.bibuf_opend_mss.def_arch
+@N: CD630 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":8:7:8:41|Synthesizing work.repo_test_mss_tmp_mss_ccc_0_mss_ccc.def_arch 
+@N: CD630 :"C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\lib\proasic\smartfusion.vhd":2812:10:2812:12|Synthesizing smartfusion.vcc.syn_black_box 
+Post processing for smartfusion.vcc.syn_black_box
+@N: CD630 :"C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\lib\proasic\smartfusion.vhd":1796:10:1796:12|Synthesizing smartfusion.gnd.syn_black_box 
+Post processing for smartfusion.gnd.syn_black_box
+@N: CD630 :"C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\lib\proasic\smartfusion.vhd":3773:10:3773:14|Synthesizing smartfusion.rcosc.syn_black_box 
+Post processing for smartfusion.rcosc.syn_black_box
+@N: CD630 :"C:\Actelprj\repo_test\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd":472:7:472:13|Synthesizing work.mss_ccc.def_arch 
+Post processing for work.mss_ccc.def_arch
+Post processing for work.repo_test_mss_tmp_mss_ccc_0_mss_ccc.def_arch
+@W: CL240 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":38:10:38:21|LPXIN_CLKOUT is not assigned a value (floating) -- simulation mismatch possible. 
+@W: CL240 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":37:10:37:23|MAINXIN_CLKOUT is not assigned a value (floating) -- simulation mismatch possible. 
+@W: CL240 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":36:10:36:21|RCOSC_CLKOUT is not assigned a value (floating) -- simulation mismatch possible. 
+@N: CD630 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\mss_tshell.vhd":4:7:4:13|Synthesizing work.mss_apb.def_arch 
+Post processing for work.mss_apb.def_arch
+Post processing for work.repo_test_mss.rtl
+@N: CD630 :"C:\Actelprj\repo_test\hdl\Counter.vhd":34:7:34:13|Synthesizing work.counter.synth 
+@N: CD364 :"C:\Actelprj\repo_test\hdl\Counter.vhd":85:6:85:15|Removed redundant assignment
+Post processing for work.counter.synth
+@N: CD630 :"C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\lib\proasic\smartfusion.vhd":2949:10:2949:15|Synthesizing smartfusion.clkint.syn_black_box 
+Post processing for smartfusion.clkint.syn_black_box
+@N: CD630 :"C:\Actelprj\repo_test\hdl\clkdiv.vhd":27:7:27:12|Synthesizing work.clkdiv.synth 
+Post processing for work.clkdiv.synth
+Post processing for work.repo_test.rtl
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":10:10:10:13|Input CLKA is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":11:10:11:17|Input CLKA_PAD is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":12:10:12:18|Input CLKA_PADP is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":13:10:13:18|Input CLKA_PADN is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":14:10:14:13|Input CLKB is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":15:10:15:17|Input CLKB_PAD is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":16:10:16:18|Input CLKB_PADP is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":17:10:17:18|Input CLKB_PADN is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":18:10:18:13|Input CLKC is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":19:10:19:17|Input CLKC_PAD is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":20:10:20:18|Input CLKC_PADP is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":21:10:21:18|Input CLKC_PADN is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":22:10:22:16|Input MAINXIN is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":23:10:23:14|Input LPXIN is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":24:10:24:16|Input MAC_CLK is unused

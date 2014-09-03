@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SynplifyOutput>
+	<result>Success</result>
+	<design>repo_test</design>
+	<target_edif>C:\Actelprj\repo_test\synthesis\repo_test.edn</target_edif>
+</SynplifyOutput>

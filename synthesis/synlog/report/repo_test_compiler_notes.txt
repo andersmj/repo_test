@@ -1,0 +1,21 @@
+@N|Running in 64-bit mode
+@N: CD720 :"C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ns
+@N:"C:\Actelprj\repo_test\component\work\repo_test\repo_test.vhd":17:7:17:15|Top entity is set to repo_test.
+@N: CD630 :"C:\Actelprj\repo_test\component\work\repo_test\repo_test.vhd":17:7:17:15|Synthesizing work.repo_test.rtl 
+@N: CD630 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\repo_test_MSS.vhd":17:7:17:19|Synthesizing work.repo_test_mss.rtl 
+@N: CD630 :"C:\Actelprj\repo_test\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd":24:7:24:16|Synthesizing work.outbuf_mss.def_arch 
+@N: CD630 :"C:\Actelprj\repo_test\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd":4:7:4:15|Synthesizing work.inbuf_mss.def_arch 
+@N: CD630 :"C:\Actelprj\repo_test\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd":65:7:65:15|Synthesizing work.bibuf_mss.def_arch 
+@N: CD630 :"C:\Actelprj\repo_test\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd":44:7:44:17|Synthesizing work.tribuff_mss.def_arch 
+@N: CD630 :"C:\Actelprj\repo_test\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd":87:7:87:21|Synthesizing work.bibuf_opend_mss.def_arch 
+@N: CD630 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":8:7:8:41|Synthesizing work.repo_test_mss_tmp_mss_ccc_0_mss_ccc.def_arch 
+@N: CD630 :"C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\lib\proasic\smartfusion.vhd":2812:10:2812:12|Synthesizing smartfusion.vcc.syn_black_box 
+@N: CD630 :"C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\lib\proasic\smartfusion.vhd":1796:10:1796:12|Synthesizing smartfusion.gnd.syn_black_box 
+@N: CD630 :"C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\lib\proasic\smartfusion.vhd":3773:10:3773:14|Synthesizing smartfusion.rcosc.syn_black_box 
+@N: CD630 :"C:\Actelprj\repo_test\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd":472:7:472:13|Synthesizing work.mss_ccc.def_arch 
+@N: CD630 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\mss_tshell.vhd":4:7:4:13|Synthesizing work.mss_apb.def_arch 
+@N: CD630 :"C:\Actelprj\repo_test\hdl\Counter.vhd":34:7:34:13|Synthesizing work.counter.synth 
+@N: CD364 :"C:\Actelprj\repo_test\hdl\Counter.vhd":85:6:85:15|Removed redundant assignment
+@N: CD630 :"C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\lib\proasic\smartfusion.vhd":2949:10:2949:15|Synthesizing smartfusion.clkint.syn_black_box 
+@N: CD630 :"C:\Actelprj\repo_test\hdl\clkdiv.vhd":27:7:27:12|Synthesizing work.clkdiv.synth 
+

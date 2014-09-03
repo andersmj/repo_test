@@ -1,0 +1,1 @@
+@W: MT532 :"c:\actelprj\repo_test\hdl\counter.vhd":82:3:82:4|Found signal identified as System clock which controls 15 sequential elements including Counter_0.UpDown_sig.  Using this clock, which has no specified timing constraint, can adversely impact design performance. 

@@ -1,0 +1,643 @@
+KEY LIBERO "11.3"
+KEY CAPTURE "11.3.0.112"
+KEY DEFAULT_IMPORT_LOC "C:\Users\Mike\Documents\LEDLighting"
+KEY ProjectID "0"
+KEY HDLTechnology "VHDL"
+KEY VendorTechnology_Family "SmartFusion"
+KEY VendorTechnology_Die "IP4X3M1"
+KEY VendorTechnology_Package "fg484"
+KEY VendorTechnology_Speed "-1"
+KEY VendorTechnology_DieVoltage "1.5"
+KEY VendorTechnology_IO_DEFT_STD "LVTTL"
+KEY VendorTechnology_RESTRICTPROBEPINS "1"
+KEY VendorTechnology_TEMPR "COM"
+KEY VendorTechnology_VCCI_1.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_1.8_VOLTR "COM"
+KEY VendorTechnology_VCCI_2.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_3.3_VOLTR "COM"
+KEY VendorTechnology_VOLTR "COM"
+KEY ProjectLocation "C:\Actelprj\repo_test"
+KEY ProjectDescription "A project created to test out GitHub"
+KEY SimulationType "VHDL"
+KEY Vendor "Actel"
+KEY ActiveRoot "repo_test::work"
+LIST REVISIONS
+VALUE="Impl1",NUM=1
+CURREV=1
+ENDLIST
+LIST LIBRARIES
+MSS_BFM_LIB
+ENDLIST
+LIST LIBRARY_MSS_BFM_LIB
+ALIAS=..\component\Actel\SmartFusionMSS\MSS\2.5.106\mti\user_verilog\MSS_BFM_LIB
+COMPILE_OPTION=REFRESH_AND_COMPILE
+CUSTOMPATH=false
+ENDLIST
+LIST FileManager
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS\2.5.106\MSS.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666355"
+SIZE="944"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd,hdl"
+STATE="utd"
+TIME="1352824282"
+SIZE="17580"
+PARENT="<project>\component\Actel\SmartFusionMSS\MSS\2.5.106\MSS.cxf"
+BEGIN_USE_CONSTRAINT
+TOOL_CONSTRAINT_TYPE="ideSYNTHESIS"
+TOOL_CONSTRAINT_USE="SYNPLIFY7_EXT"
+END_USE_CONSTRAINT
+USE_FOR_ANY_TOOL="FALSE"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_ACE\2.2.100\MSS_ACE.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666302"
+SIZE="252"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_CCC\2.0.106\MSS_CCC.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666304"
+SIZE="252"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_CM3\1.0.200\MSS_CM3.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666304"
+SIZE="252"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_COM\1.0.200\MSS_COM.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666304"
+SIZE="252"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_DMA\1.0.101\MSS_DMA.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666304"
+SIZE="252"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_EMI\1.0.100\MSS_EMI.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666304"
+SIZE="252"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_ENVM\2.3.102\MSS_ENVM.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666318"
+SIZE="253"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_FIC\1.0.101\MSS_FIC.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666318"
+SIZE="252"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_FIO\1.0.203\MSS_FIO.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666318"
+SIZE="252"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_GPIO\1.0.101\MSS_GPIO.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666318"
+SIZE="253"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_I2C\1.0.101\MSS_I2C.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666318"
+SIZE="252"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_INTR\1.0.101\MSS_INTR.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666318"
+SIZE="253"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_MAC\2.1.101\MSS_MAC.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666318"
+SIZE="252"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_RESET\1.0.101\MSS_RESET.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666318"
+SIZE="254"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_RTC\1.0.100\MSS_RTC.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666318"
+SIZE="252"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_SPI\1.0.102\MSS_SPI.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666318"
+SIZE="252"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_TIMER\1.0.100\MSS_TIMER.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666318"
+SIZE="254"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_UART\1.0.101\MSS_UART.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666318"
+SIZE="253"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_UFROM\1.0.100\MSS_UFROM.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666318"
+SIZE="254"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SmartFusionMSS\MSS_WATCHDOG\1.0.101\MSS_WATCHDOG.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666318"
+SIZE="257"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\work\repo_test\repo_test.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409667135"
+SIZE="15773"
+ENDFILE
+VALUE "<project>\component\work\repo_test\repo_test.pdc,pdc"
+STATE="utd"
+TIME="1409667130"
+SIZE="1087"
+PARENT="<project>\component\work\repo_test\repo_test.cxf"
+BEGIN_USE_CONSTRAINT
+TOOL_CONSTRAINT_TYPE="ideDESIGNER"
+END_USE_CONSTRAINT
+USE_FOR_ANY_TOOL="FALSE"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\repo_test\repo_test.vhd,hdl"
+STATE="utd"
+TIME="1409667131"
+SIZE="11309"
+PARENT="<project>\component\work\repo_test\repo_test.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\repo_test\testbench.vhd,tb_hdl"
+STATE="utd"
+TIME="1409667131"
+SIZE="4211"
+PARENT="<project>\component\work\repo_test\repo_test.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\repo_test_MSS\MSS_ACE_0\MSS_ACE_0.log,???"
+STATE="utd"
+TIME="1409666302"
+SIZE="31587"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666304"
+SIZE="492"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd,hdl"
+STATE="utd"
+TIME="1409666304"
+SIZE="6917"
+PARENT="<project>\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\repo_test_MSS\MSS_ENVM_0\MSS_ENVM_0.efc,efc"
+STATE="utd"
+TIME="1409666317"
+SIZE="15505"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\repo_test_MSS\mss_tshell.vhd,hdl"
+STATE="utd"
+TIME="1409666319"
+SIZE="22850"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+BEGIN_USE_CONSTRAINT
+TOOL_CONSTRAINT_TYPE="ideSYNTHESIS"
+TOOL_CONSTRAINT_USE="SYNPLIFY7_EXT"
+END_USE_CONSTRAINT
+USE_FOR_ANY_TOOL="FALSE"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\repo_test_MSS\mss_tshell_syn.sdc,sdc"
+STATE="utd"
+TIME="1409666319"
+SIZE="196"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+BEGIN_USE_CONSTRAINT
+TOOL_CONSTRAINT_TYPE="ideSYNTHESIS"
+TOOL_CONSTRAINT_USE="SYNPLIFY7_EXT"
+END_USE_CONSTRAINT
+USE_FOR_ANY_TOOL="FALSE"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\repo_test_MSS\repo_test_MSS.cxf,actgen_cxf"
+STATE="utd"
+TIME="1409666356"
+SIZE="22243"
+ENDFILE
+VALUE "<project>\component\work\repo_test_MSS\repo_test_MSS.vhd,hdl"
+STATE="utd"
+TIME="1409666356"
+SIZE="74471"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\repo_test_MSS\testbench.vhd,tb_hdl"
+STATE="utd"
+TIME="1409666356"
+SIZE="4174"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\designer\impl1\repo_test.adb,adb"
+STATE="utd"
+TIME="1409667185"
+SIZE="369664"
+ENDFILE
+VALUE "<project>\designer\impl1\repo_test.fdb,fdb"
+STATE="utd"
+TIME="1409667249"
+SIZE="37981"
+ENDFILE
+VALUE "<project>\designer\impl1\repo_test.ide_des,ide_des"
+STATE="utd"
+TIME="1409665812"
+SIZE="182"
+ENDFILE
+VALUE "<project>\designer\impl1\repo_test_compile_log.rpt,log"
+STATE="utd"
+TIME="1409667185"
+SIZE="29928"
+ENDFILE
+VALUE "<project>\designer\impl1\repo_test_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1409667225"
+SIZE="2619"
+ENDFILE
+VALUE "<project>\designer\impl1\repo_test_prgdata_log.rpt,log"
+STATE="utd"
+TIME="1409667250"
+SIZE="604"
+ENDFILE
+VALUE "<project>\designer\impl1\repo_test_verifytiming_log.rpt,log"
+STATE="utd"
+TIME="1409667232"
+SIZE="1128"
+ENDFILE
+VALUE "<project>\hdl\clkdiv.vhd,hdl"
+STATE="utd"
+TIME="1409666021"
+SIZE="2066"
+ENDFILE
+VALUE "<project>\hdl\Counter.vhd,hdl"
+STATE="utd"
+TIME="1409666021"
+SIZE="4788"
+ENDFILE
+VALUE "<project>\simulation\CompileDssBfm.tcl,sim"
+STATE="utd"
+TIME="1352824275"
+SIZE="41"
+PARENT="<project>\component\Actel\SmartFusionMSS\MSS\2.5.106\MSS.cxf"
+ENDFILE
+VALUE "<project>\simulation\subsystem.bfm,sim"
+STATE="utd"
+TIME="1409667131"
+SIZE="598"
+PARENT="<project>\component\work\repo_test\repo_test.cxf"
+ENDFILE
+VALUE "<project>\simulation\test.bfm,sim"
+STATE="utd"
+TIME="1409666307"
+SIZE="5461"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\simulation\user.bfm,sim"
+STATE="utd"
+TIME="1409666307"
+SIZE="670"
+PARENT="<project>\component\work\repo_test_MSS\repo_test_MSS.cxf"
+ENDFILE
+VALUE "<project>\stimulus\Counter_tb.vhd,tb_hdl"
+STATE="utd"
+TIME="1409666045"
+SIZE="3912"
+ENDFILE
+VALUE "<project>\synthesis\repo_test.edn,syn_edn"
+STATE="utd"
+TIME="1409667170"
+SIZE="208694"
+ENDFILE
+VALUE "<project>\synthesis\repo_test.so,so"
+STATE="utd"
+TIME="1409667170"
+SIZE="209"
+ENDFILE
+VALUE "<project>\synthesis\repo_test_sdc.sdc,syn_sdc"
+STATE="utd"
+TIME="1409667170"
+SIZE="546"
+ENDFILE
+VALUE "<project>\synthesis\repo_test_syn.prj,prj"
+STATE="utd"
+TIME="1409667171"
+SIZE="2118"
+ENDFILE
+ENDLIST
+LIST UsedFile
+ENDLIST
+LIST NewModulesInfo
+LIST "repo_test::work"
+FILE "<project>\component\work\repo_test\repo_test.vhd,hdl"
+LIST Other_Association
+VALUE "<project>\simulation\subsystem.bfm,sim"
+VALUE "<project>\component\work\repo_test\testbench.vhd,tb_hdl"
+VALUE "<project>\component\work\repo_test\repo_test.pdc,pdc"
+ENDLIST
+LIST AssociatedStimulus
+VALUE "<project>\component\work\repo_test\testbench.vhd,tb_hdl"
+ENDLIST
+LIST SynthesisConstraints
+VALUE "<project>\component\work\repo_test_MSS\mss_tshell_syn.sdc,sdc"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+LiberoState=Post_Layout
+ideDESIGNER(<project>\designer\impl1\repo_test.adb,adb)=StateSuccess
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\repo_test.edn,syn_edn)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\repo_test_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\repo_test_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+LIST "repo_test_MSS::work"
+FILE "<project>\component\work\repo_test_MSS\repo_test_MSS.vhd,hdl"
+LIST Other_Association
+VALUE "<project>\component\work\repo_test_MSS\mss_tshell_syn.sdc,sdc"
+VALUE "<project>\simulation\user.bfm,sim"
+VALUE "<project>\simulation\test.bfm,sim"
+VALUE "<project>\component\work\repo_test_MSS\testbench.vhd,tb_hdl"
+VALUE "<project>\component\work\repo_test_MSS\MSS_ENVM_0\MSS_ENVM_0.efc,efc"
+VALUE "<project>\simulation\CompileDssBfm.tcl,sim"
+ENDLIST
+LIST AssociatedStimulus
+VALUE "<project>\component\work\repo_test_MSS\testbench.vhd,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+ENDLIST
+LIST AssociatedStimulus
+LIST repo_test
+VALUE "<project>\component\work\repo_test\testbench.vhd,tb_hdl"
+ENDLIST
+LIST repo_test_MSS
+VALUE "<project>\component\work\repo_test_MSS\testbench.vhd,tb_hdl"
+ENDLIST
+ENDLIST
+LIST Other_Association
+LIST repo_test
+VALUE "<project>\simulation\subsystem.bfm,sim"
+VALUE "<project>\component\work\repo_test\testbench.vhd,tb_hdl"
+VALUE "<project>\component\work\repo_test\repo_test.pdc,pdc"
+ENDLIST
+LIST repo_test_MSS
+VALUE "<project>\component\work\repo_test_MSS\mss_tshell_syn.sdc,sdc"
+VALUE "<project>\simulation\user.bfm,sim"
+VALUE "<project>\simulation\test.bfm,sim"
+VALUE "<project>\component\work\repo_test_MSS\testbench.vhd,tb_hdl"
+VALUE "<project>\component\work\repo_test_MSS\MSS_ENVM_0\MSS_ENVM_0.efc,efc"
+VALUE "<project>\simulation\CompileDssBfm.tcl,sim"
+ENDLIST
+ENDLIST
+LIST SimulationOptions
+UseAutomaticDoFile=true
+IncludeWaveDo=false
+Type=max
+RunTime=1000ns
+Resolution=1ps
+VsimOpt=
+EntityName=testbench
+TopInstanceName=<top>_0
+DoFileName=
+DoFileName2=wave.do
+DoFileParams=
+DisplayDUTWave=false
+LogAllSignals=false
+DisablePulseFiltering=false
+DumpVCD=false
+VCDFileName=power.vcd
+VHDL2008=false
+Verilog2001=false
+SystemVerilog=false
+ENDLIST
+LIST ModelSimLibPath
+UseCustomPath=FALSE
+LibraryPath=
+ENDLIST
+LIST GlobalFlowOptions
+GenerateHDLAfterSynthesis=FALSE
+GenerateHDLAfterPhySynthesis=FALSE
+RunDRCAfterSynthesis=TRUE
+AutoCheckConstraints=TRUE
+UpdateModelSimIni=TRUE
+NoIOMode=FALSE
+EnableViewDraw=FALSE
+UpdateViewDrawIni=TRUE
+GenerateHDLFromSchematic=TRUE
+VmNetlistFlowOn=FALSE
+FlashProInputFile=fdb
+SmartGenCompileReport=T
+ENDLIST
+LIST PhySynthesisOptions
+ENDLIST
+LIST Profiles
+NAME="SoftConsole"
+FUNCTION="SoftwareIDE"
+TOOL="SoftConsole"
+LOCATION="C:\Microsemi\Libero_v11.1\SoftConsole\Eclipse\eclipse.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Synplify Pro ME"
+FUNCTION="Synthesis"
+TOOL="Synplify Pro ME"
+LOCATION="C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\bin\synplify_pro.exe"
+PARAM="-licensetype synplifypro_actel -batch -log synplify.log"
+BATCH=1
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="ModelSim ME"
+FUNCTION="Simulation"
+TOOL="ModelSim"
+LOCATION="C:\Microsemi\Libero_v11.3\Model\win32acoem\modelsim.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="FlashPro"
+FUNCTION="Program"
+TOOL="FlashPro"
+LOCATION="C:\Microsemi\Libero_v11.3\Designer\bin\FlashPro.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+ENDLIST
+LIST ProjectState5.1
+LIST "repo_test::work"
+LIST Impl1
+LiberoState=Post_Layout
+ideDESIGNER(<project>\designer\impl1\repo_test.adb,adb)=StateSuccess
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\repo_test.edn,syn_edn)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "repo_test_MSS::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST ExcludePackageForSimulation
+ENDLIST
+LIST ExcludePackageForSynthesis
+ENDLIST
+LIST IncludeModuleForSimulation
+ENDLIST
+LIST CDBOrder
+ENDLIST
+LIST UserCustomizedFileList
+ENDLIST
+LIST OpenedFileList
+ORIENTATION;HORIZONTAL
+Reports;Reports;0
+ReportsCurrentItem;Generate Programming Data:repo_test_prgdata_log.rpt
+StartPage;StartPage;0
+SmartDesign;repo_test;0
+SmartDesign;repo_test_MSS;0
+ACTIVEVIEW;Reports
+ENDLIST
+LIST ModuleSubBlockList
+LIST "BIBUF_MSS::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+ENDLIST
+LIST "BIBUF_OPEND_MSS::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+ENDLIST
+LIST "clkdiv::work","hdl\clkdiv.vhd","FALSE","FALSE"
+ENDLIST
+LIST "Counter::work","hdl\Counter.vhd","FALSE","FALSE"
+ENDLIST
+LIST "INBUF_LVDS_MCCC::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+ENDLIST
+LIST "INBUF_LVPECL_MCCC::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+ENDLIST
+LIST "INBUF_MCCC::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+ENDLIST
+LIST "INBUF_MSS::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+ENDLIST
+LIST "MSS_ALL::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+ENDLIST
+LIST "MSS_APB::work","component\work\repo_test_MSS\mss_tshell.vhd","FALSE","FALSE"
+ENDLIST
+LIST "MSS_CCC::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+ENDLIST
+LIST "MSS_LPXTLOSC::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+ENDLIST
+LIST "MSS_XTLOSC::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+ENDLIST
+LIST "MSSINT::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+ENDLIST
+LIST "OUTBUF_MSS::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+ENDLIST
+LIST "repo_test::work","component\work\repo_test\repo_test.vhd","TRUE","FALSE"
+SUBBLOCK "clkdiv::work","hdl\clkdiv.vhd","FALSE","FALSE"
+SUBBLOCK "Counter::work","hdl\Counter.vhd","FALSE","FALSE"
+SUBBLOCK "repo_test_MSS::work","component\work\repo_test_MSS\repo_test_MSS.vhd","TRUE","FALSE"
+ENDLIST
+LIST "repo_test_MSS::work","component\work\repo_test_MSS\repo_test_MSS.vhd","TRUE","FALSE"
+SUBBLOCK "MSS_APB::work","component\work\repo_test_MSS\mss_tshell.vhd","FALSE","FALSE"
+SUBBLOCK "repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC::work","component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd","FALSE","FALSE"
+SUBBLOCK "OUTBUF_MSS::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+SUBBLOCK "BIBUF_MSS::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+SUBBLOCK "BIBUF_OPEND_MSS::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+SUBBLOCK "INBUF_MSS::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+SUBBLOCK "TRIBUFF_MSS::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+ENDLIST
+LIST "repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC::work","component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd","FALSE","FALSE"
+SUBBLOCK "MSS_CCC::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+ENDLIST
+LIST "TRIBUFF_MSS::work","component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd","FALSE","FALSE"
+ENDLIST
+LIST "Counter_tb::work","stimulus\Counter_tb.vhd","FALSE","TRUE"
+SUBBLOCK "Counter::work","hdl\Counter.vhd","FALSE","FALSE"
+ENDLIST
+LIST "testbench::work","component\work\repo_test\testbench.vhd","FALSE","TRUE"
+SUBBLOCK "repo_test::work","component\work\repo_test\repo_test.vhd","TRUE","FALSE"
+ENDLIST
+LIST "testbench::work","component\work\repo_test_MSS\testbench.vhd","FALSE","TRUE"
+SUBBLOCK "repo_test_MSS::work","component\work\repo_test_MSS\repo_test_MSS.vhd","TRUE","FALSE"
+ENDLIST
+ENDLIST
+LIST ActiveTestBenchList
+LIST "repo_test::work"
+ACTIVETESTBENCH "","","FALSE"
+ENDLIST
+ENDLIST

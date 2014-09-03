@@ -1,0 +1,23 @@
+!SESSION 2014-09-02 14:56:45.810 -----------------------------------------------
+eclipse.buildId=M20130329-1600
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import C:\Actelprj\repo_test\SoftConsole\repo_test_MSS_MSS_CM3_0\projects\repo_test_MSS_MSS_CM3_0_hw_platform
+Command-line arguments:  -os win32 -ws win32 -arch x86 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -data C:/Actelprj/repo_test/SoftConsole/repo_test_MSS_MSS_CM3_0 -import C:\Actelprj\repo_test\SoftConsole\repo_test_MSS_MSS_CM3_0\projects\repo_test_MSS_MSS_CM3_0_hw_platform
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-09-02 14:57:12.050
+!MESSAGE Indexed 'repo_test_MSS_MSS_CM3_0_hw_platform' (21 sources, 63 headers) in 2.74 sec: 4,949 declarations; 12,973 references; 10 unresolved inclusions; 0 syntax errors; 163 unresolved names (0.90%)
+!SESSION 2014-09-02 14:57:13.850 -----------------------------------------------
+eclipse.buildId=M20130329-1600
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_GB
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import C:\Actelprj\repo_test\SoftConsole\repo_test_MSS_MSS_CM3_0\projects\repo_test_MSS_MSS_CM3_0_app
+Command-line arguments:  -os win32 -ws win32 -arch x86 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -data C:/Actelprj/repo_test/SoftConsole/repo_test_MSS_MSS_CM3_0 -import C:\Actelprj\repo_test\SoftConsole\repo_test_MSS_MSS_CM3_0\projects\repo_test_MSS_MSS_CM3_0_app
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-09-02 14:57:15.730
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-09-02 14:57:19.750
+!MESSAGE Indexed 'repo_test_MSS_MSS_CM3_0_app' (1 sources, 8 headers) in 0.22 sec: 1 declarations; 0 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)

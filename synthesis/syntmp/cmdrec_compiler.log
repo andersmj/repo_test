@@ -1,0 +1,13 @@
+C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\bin64\c_vhdl.exe  -osyn  C:\Actelprj\repo_test\synthesis\synwork\repo_test_comp.srs  -top  work.repo_test  -prodtype  synplify_pro  -nram -fixsmult   -divnmod -encrypt  -pro  -dmgen  C:\Actelprj\repo_test\synthesis\dm  -lite   -ui -fid2 -ram -sharing on  -ll 2000 -autosm -ignore_undefined_lib  -lib work C:\Actelprj\repo_test\hdl\clkdiv.vhd -lib work C:\Actelprj\repo_test\hdl\Counter.vhd -lib work C:\Actelprj\repo_test\component\work\repo_test_MSS\mss_tshell.vhd -lib work C:\Actelprj\repo_test\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd -lib work C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd -lib work C:\Actelprj\repo_test\component\work\repo_test_MSS\repo_test_MSS.vhd -lib work C:\Actelprj\repo_test\component\work\repo_test\repo_test.vhd -loga  C:\Actelprj\repo_test\synthesis\repo_test.srr 
+rc:0 success:1
+C:\Actelprj\repo_test\synthesis\synwork\repo_test_comp.srs|o|1409667162|47527
+C:\Actelprj\repo_test\hdl\clkdiv.vhd|i|1409666021|2066
+C:\Actelprj\repo_test\hdl\Counter.vhd|i|1409666021|4788
+C:\Actelprj\repo_test\component\work\repo_test_MSS\mss_tshell.vhd|i|1409666319|22850
+C:\Actelprj\repo_test\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd|i|1352827882|17580
+C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd|i|1409666304|6917
+C:\Actelprj\repo_test\component\work\repo_test_MSS\repo_test_MSS.vhd|i|1409666356|74471
+C:\Actelprj\repo_test\component\work\repo_test\repo_test.vhd|i|1409667131|11309
+C:\Actelprj\repo_test\synthesis\repo_test.srr|o|1409667162|7220
+C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\bin64\c_vhdl.exe|i|1389658488|5462528
+C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\bin\c_vhdl.exe|i|1389658292|1981952

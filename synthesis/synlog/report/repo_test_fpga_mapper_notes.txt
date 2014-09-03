@@ -1,0 +1,7 @@
+@N: MF248 |Running in 64-bit mode.
+@N: MF667 |Clock conversion disabled 
+@N: MF238 :"c:\actelprj\repo_test\hdl\clkdiv.vhd":53:20:53:36|Found 14-bit incrementor, 'un3_counter12k5_1[13:0]'
+@N: MT320 |Timing report estimates place and route data. Please look at the place and route timing report for final timing.
+@N: MT322 |Clock constraints cover only FF-to-FF paths associated with the clock.
+@N: MT320 |Timing report estimates place and route data. Please look at the place and route timing report for final timing.
+@N: MT322 |Clock constraints cover only FF-to-FF paths associated with the clock.

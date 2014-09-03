@@ -1,0 +1,14 @@
+C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\bin64\m_proasic.exe  -prodtype  synplify_pro  -encrypt  -pro  -rundir  C:\Actelprj\repo_test\synthesis  -part A2F200M3F  -package FBGA484  -grade -1   -globalthreshold 50 -maxfan 24 -opcond COMWC     -report_path 0   -RWCheckOnRam 0     -summaryfile C:\Actelprj\repo_test\synthesis\synlog\report\repo_test_premap.xml -top_level_module  work.repo_test  -oedif  C:\Actelprj\repo_test\synthesis\repo_test.edn  -conchk_prepass  C:\Actelprj\repo_test\synthesis\repo_test_cck_prepass.rpt  -freq 100.000  -tcl  C:\Actelprj\repo_test\component\work\repo_test_MSS\mss_tshell_syn.sdc  C:\Actelprj\repo_test\synthesis\synwork\repo_test_comp.srs  -flow prepass  -gcc_prepass  -osrd  C:\Actelprj\repo_test\synthesis\synwork\repo_test_prem.srd  -qsap  C:\Actelprj\repo_test\synthesis\repo_test.sap  -devicelib  C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\lib\proasic\smartfusion.v  -ologparam  C:\Actelprj\repo_test\synthesis\syntmp\repo_test.plg  -osyn  C:\Actelprj\repo_test\synthesis\synwork\repo_test_prem.srd  -prjdir  C:\Actelprj\repo_test\synthesis\  -prjname  repo_test_syn  -log  C:\Actelprj\repo_test\synthesis\synlog\repo_test_premap.srr 
+rc:1 success:1
+C:\Actelprj\repo_test\synthesis\repo_test.edn|o|0|0
+C:\Actelprj\repo_test\synthesis\repo_test_cck_prepass.rpt|o|0|0
+C:\Actelprj\repo_test\component\work\repo_test_MSS\mss_tshell_syn.sdc|i|1409666319|196
+C:\Actelprj\repo_test\synthesis\synwork\repo_test_comp.srs|i|1409667162|47527
+C:\Actelprj\repo_test\synthesis\synwork\repo_test_prem.srd|o|1409667166|27106
+C:\Actelprj\repo_test\synthesis\repo_test.sap|o|1409667166|2225
+C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\lib\proasic\smartfusion.v|i|1389690296|72817
+C:\Actelprj\repo_test\synthesis\syntmp\repo_test.plg|o|1409667165|0
+C:\Actelprj\repo_test\synthesis\synwork\repo_test_prem.srd|o|1409667166|27106
+C:\Actelprj\repo_test\synthesis\synlog\repo_test_premap.srr|o|1409667166|2295
+C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\bin64\m_proasic.exe|i|1390212854|14807552
+C:\Microsemi\Libero_v11.3\Synopsys\synplify_I201309MSP1\bin\m_proasic.exe|i|1390210244|12169728

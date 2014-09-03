@@ -1,0 +1,41 @@
+Synopsys Microsemi Technology Pre-mapping, Version mapact, Build 1154R, Built Jan 20 2014 10:14:08
+Copyright (C) 1994-2013, Synopsys, Inc. This software and the associated documentation are proprietary to Synopsys, Inc. This software may only be used in accordance with the terms and conditions of a written license agreement with Synopsys, Inc.  All other use or distribution of the software is strictly prohibited.
+Product Version I-2013.09M-SP1 
+
+Mapper Startup Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 99MB peak: 99MB)
+
+Reading constraint file: C:\Actelprj\repo_test\component\work\repo_test_MSS\mss_tshell_syn.sdc
+@L: C:\Actelprj\repo_test\synthesis\repo_test_scck.rpt 
+Printing clock  summary report in "C:\Actelprj\repo_test\synthesis\repo_test_scck.rpt" file 
+@N: MF248 |Running in 64-bit mode.
+@N: MF667 |Clock conversion disabled 
+
+Design Input Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 100MB peak: 102MB)
+
+
+Mapper Initialization Complete (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 100MB peak: 102MB)
+
+
+
+Clock Summary
+**************
+
+Start       Requested     Requested     Clock        Clock      
+Clock       Frequency     Period        Type         Group      
+----------------------------------------------------------------
+FAB_CLK     50.0 MHz      20.000        declared     clk_group_0
+FCLK        50.0 MHz      20.000        declared     clk_group_0
+================================================================
+
+@W: MT532 :"c:\actelprj\repo_test\hdl\counter.vhd":82:3:82:4|Found signal identified as System clock which controls 15 sequential elements including Counter_0.UpDown_sig.  Using this clock, which has no specified timing constraint, can adversely impact design performance. 
+
+Finished Pre Mapping Phase.
+@N: BN225 |Writing default property annotation file C:\Actelprj\repo_test\synthesis\repo_test.sap.
+Pre-mapping successful!
+
+At Mapper Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 47MB peak: 111MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Tue Sep 02 15:12:46 2014
+
+###########################################################]

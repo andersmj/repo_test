@@ -1,0 +1,87 @@
+#defaultlanguage:vhdl
+#OPTIONS:"|-top|work.repo_test|-prodtype|synplify_pro|-nram|-fixsmult|-divnmod|-encrypt|-pro|-lite|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-ignore_undefined_lib|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work"
+#CUR:"C:\\Microsemi\\Libero_v11.3\\Synopsys\\synplify_I201309MSP1\\bin64\\c_vhdl.exe":1389658488
+#CUR:"C:\\Microsemi\\Libero_v11.3\\Synopsys\\synplify_I201309MSP1\\lib\\vhd\\location.map":1389793368
+#CUR:"C:\\Microsemi\\Libero_v11.3\\Synopsys\\synplify_I201309MSP1\\lib\\vhd\\std.vhd":1389658126
+#CUR:"C:\\Microsemi\\Libero_v11.3\\Synopsys\\synplify_I201309MSP1\\lib\\vhd\\snps_haps_pkg.vhd":1389658126
+#CUR:"C:\\Microsemi\\Libero_v11.3\\Synopsys\\synplify_I201309MSP1\\lib\\vhd\\std1164.vhd":1389658126
+#CUR:"C:\\Microsemi\\Libero_v11.3\\Synopsys\\synplify_I201309MSP1\\lib\\vhd\\numeric.vhd":1389658126
+#CUR:"C:\\Microsemi\\Libero_v11.3\\Synopsys\\synplify_I201309MSP1\\lib\\vhd\\umr_capim.vhd":1389658374
+#CUR:"C:\\Microsemi\\Libero_v11.3\\Synopsys\\synplify_I201309MSP1\\lib\\vhd\\arith.vhd":1389658126
+#CUR:"C:\\Microsemi\\Libero_v11.3\\Synopsys\\synplify_I201309MSP1\\lib\\vhd\\unsigned.vhd":1389658126
+#CUR:"C:\\Actelprj\\repo_test\\hdl\\clkdiv.vhd":1409666021
+#CUR:"C:\\Actelprj\\repo_test\\hdl\\Counter.vhd":1409666021
+#CUR:"C:\\Actelprj\\repo_test\\component\\work\\repo_test_MSS\\mss_tshell.vhd":1409666319
+#CUR:"C:\\Actelprj\\repo_test\\component\\Actel\\SmartFusionMSS\\MSS\\2.5.106\\mss_comps.vhd":1352827882
+#CUR:"C:\\Actelprj\\repo_test\\component\\work\\repo_test_MSS\\MSS_CCC_0\\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":1409666304
+#CUR:"C:\\Microsemi\\Libero_v11.3\\Synopsys\\synplify_I201309MSP1\\lib\\proasic\\smartfusion.vhd":1389690296
+#CUR:"C:\\Actelprj\\repo_test\\component\\work\\repo_test_MSS\\repo_test_MSS.vhd":1409666356
+#CUR:"C:\\Actelprj\\repo_test\\component\\work\\repo_test\\repo_test.vhd":1409667131
+0 "C:\Actelprj\repo_test\hdl\clkdiv.vhd" vhdl
+1 "C:\Actelprj\repo_test\hdl\Counter.vhd" vhdl
+2 "C:\Actelprj\repo_test\component\work\repo_test_MSS\mss_tshell.vhd" vhdl
+3 "C:\Actelprj\repo_test\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.vhd" vhdl
+4 "C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd" vhdl
+5 "C:\Actelprj\repo_test\component\work\repo_test_MSS\repo_test_MSS.vhd" vhdl
+6 "C:\Actelprj\repo_test\component\work\repo_test\repo_test.vhd" vhdl
+
+# Dependency Lists (Uses list)
+0 -1
+1 -1
+2 -1
+3 -1
+4 3 
+5 2 4 3 
+6 0 1 5 
+
+# Dependency Lists (Users Of)
+0 6 
+1 6 
+2 5 
+3 5 4 
+4 5 
+5 6 
+6 -1
+
+# Design Unit to File Association
+arch work clkdiv synth 0
+module work clkdiv 0
+arch work counter synth 1
+module work counter 1
+arch work mss_apb def_arch 2
+module work mss_apb 2
+arch work mss_ccc def_arch 3
+module work mss_ccc 3
+arch work mss_lpxtlosc def_arch 3
+module work mss_lpxtlosc 3
+arch work mss_xtlosc def_arch 3
+module work mss_xtlosc 3
+arch work mss_all def_arch 3
+module work mss_all 3
+arch work mssint def_arch 3
+module work mssint 3
+arch work inbuf_lvds_mccc def_arch 3
+module work inbuf_lvds_mccc 3
+arch work inbuf_lvpecl_mccc def_arch 3
+module work inbuf_lvpecl_mccc 3
+arch work inbuf_mccc def_arch 3
+module work inbuf_mccc 3
+arch work bibuf_opend_mss def_arch 3
+module work bibuf_opend_mss 3
+arch work bibuf_mss def_arch 3
+module work bibuf_mss 3
+arch work tribuff_mss def_arch 3
+module work tribuff_mss 3
+arch work outbuf_mss def_arch 3
+module work outbuf_mss 3
+arch work inbuf_mss def_arch 3
+module work inbuf_mss 3
+arch work repo_test_mss_tmp_mss_ccc_0_mss_ccc def_arch 4
+module work repo_test_mss_tmp_mss_ccc_0_mss_ccc 4
+arch work repo_test_mss rtl 5
+module work repo_test_mss 5
+arch work repo_test rtl 6
+module work repo_test 6
+
+
+# Configuration files used

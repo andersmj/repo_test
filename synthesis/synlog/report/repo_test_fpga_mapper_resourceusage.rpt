@@ -1,0 +1,54 @@
+Target Part: A2F200M3F_FBGA484_-1
+Report for cell repo_test.rtl
+  Core Cell usage:
+              cell count     area count*area
+              AND2     2      1.0        2.0
+              AND3    14      1.0       14.0
+              AOI1     1      1.0        1.0
+             AOI1B     6      1.0        6.0
+              AX1C     1      1.0        1.0
+            CLKINT     2      0.0        0.0
+               GND     5      0.0        0.0
+               INV     1      1.0        1.0
+           MSS_APB     1      0.0        0.0
+           MSS_CCC     1      0.0        0.0
+               MX2     8      1.0        8.0
+              MX2C     1      1.0        1.0
+              NOR2     3      1.0        3.0
+             NOR2A     2      1.0        2.0
+             NOR2B     5      1.0        5.0
+             NOR3B     2      1.0        2.0
+             NOR3C     2      1.0        2.0
+             RCOSC     1      0.0        0.0
+               VCC     5      0.0        0.0
+              XOR2    13      1.0       13.0
+
+
+            DFN1C0    15      1.0       15.0
+          DFN1E0C0     1      1.0        1.0
+          DFN1E1C0     7      1.0        7.0
+          DFN1E1P0     1      1.0        1.0
+            DFN1P0     6      1.0        6.0
+                   -----          ----------
+             TOTAL   106                91.0
+
+
+  IO Cell usage:
+              cell count
+         BIBUF_MSS    21
+   BIBUF_OPEND_MSS     4
+             INBUF     2
+         INBUF_MSS     9
+            OUTBUF     8
+        OUTBUF_MSS    40
+       TRIBUFF_MSS     2
+                   -----
+             TOTAL    86
+
+
+Core Cells         : 91 of 4608 (2%)
+IO Cells           : 86
+
+  RAM/ROM Usage Summary
+Block Rams : 0 of 8 (0%)
+

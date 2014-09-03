@@ -1,0 +1,49 @@
+@P:  Worst Slack : 5.038
+@P:  FAB_CLK - Estimated Frequency : 139.3 MHz
+@P:  FAB_CLK - Requested Frequency : 50.0 MHz
+@P:  FAB_CLK - Estimated Period : 7.178
+@P:  FAB_CLK - Requested Period : 20.000
+@P:  FAB_CLK - Slack : 12.822
+@P:  FCLK - Estimated Frequency : NA
+@P:  FCLK - Requested Frequency : 50.0 MHz
+@P:  FCLK - Estimated Period : NA
+@P:  FCLK - Requested Period : 20.000
+@P:  FCLK - Slack : NA
+@P:  clkdiv|clk10h_sig_inferred_clock - Estimated Frequency : 305.8 MHz
+@P:  clkdiv|clk10h_sig_inferred_clock - Requested Frequency : 100.0 MHz
+@P:  clkdiv|clk10h_sig_inferred_clock - Estimated Period : 3.270
+@P:  clkdiv|clk10h_sig_inferred_clock - Requested Period : 10.000
+@P:  clkdiv|clk10h_sig_inferred_clock - Slack : 6.730
+@P:  System - Estimated Frequency : 201.5 MHz
+@P:  System - Requested Frequency : 100.0 MHz
+@P:  System - Estimated Period : 4.962
+@P:  System - Requested Period : 10.000
+@P:  System - Slack : 5.038
+@P:  Worst Slack(min analysis) : 0.192
+@P:  FAB_CLK - Estimated Frequency(min analysis) : 139.3 MHz
+@P:  FAB_CLK - Requested Frequency(min analysis) : 50.0 MHz
+@P:  FAB_CLK - Estimated Period(min analysis) : 7.178
+@P:  FAB_CLK - Requested Period(min analysis) : 20.000
+@P:  FAB_CLK - Slack(min analysis) : 12.822
+@P:  FCLK - Estimated Frequency(min analysis) : NA
+@P:  FCLK - Requested Frequency(min analysis) : 50.0 MHz
+@P:  FCLK - Estimated Period(min analysis) : NA
+@P:  FCLK - Requested Period(min analysis) : 20.000
+@P:  FCLK - Slack(min analysis) : NA
+@P:  clkdiv|clk10h_sig_inferred_clock - Estimated Frequency(min analysis) : 305.8 MHz
+@P:  clkdiv|clk10h_sig_inferred_clock - Requested Frequency(min analysis) : 100.0 MHz
+@P:  clkdiv|clk10h_sig_inferred_clock - Estimated Period(min analysis) : 3.270
+@P:  clkdiv|clk10h_sig_inferred_clock - Requested Period(min analysis) : 10.000
+@P:  clkdiv|clk10h_sig_inferred_clock - Slack(min analysis) : 6.730
+@P:  System - Estimated Frequency(min analysis) : 201.5 MHz
+@P:  System - Requested Frequency(min analysis) : 100.0 MHz
+@P:  System - Estimated Period(min analysis) : 4.962
+@P:  System - Requested Period(min analysis) : 10.000
+@P:  System - Slack(min analysis) : 5.038
+@P:  Total Area : 91.0
+@P:  Total Area : 0.0
+@P:  Total Area : 0.0
+@P:  Total Area : 28.0
+@P:  Total Area : 63.0
+@P:  Total Area : 91.0
+@P:  CPU Time : 0h:00m:01s

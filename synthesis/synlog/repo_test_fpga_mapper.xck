@@ -1,0 +1,2 @@
+CKID0001:@|S:clkdiv_0.clk10h_sig@|E:Counter_0.SW2_rt[2]@|F:@syn_sample_clock_path==CKID0001@|M:ClockId0001 
+CKID0002:@|S:repo_test_MSS_0@|E:clkdiv_0.counter12k5[13]@|F:@syn_sample_clock_path==CKID0002@|M:ClockId0002 

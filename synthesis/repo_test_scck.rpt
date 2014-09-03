@@ -1,0 +1,29 @@
+# Synospys Constraint Checker(syntax only), version mapact, Build 1154R, built Jan 20 2014
+# Copyright (C) 1994-2013, Synopsys, Inc. This software and the associated documentation are proprietary to Synopsys, Inc. This software may only be used in accordance with the terms and conditions of a written license agreement with Synopsys, Inc.  All other use or distribution of the software is strictly prohibited.
+
+# Written on Tue Sep 02 15:12:45 2014
+
+
+##### DESIGN INFO #######################################################
+
+Top View:                "repo_test"
+Constraint File(s):      "C:\Actelprj\repo_test\component\work\repo_test_MSS\mss_tshell_syn.sdc"
+
+#Run constraint checker to find more issues with constraints.
+#########################################################################
+
+
+
+No issues found in constraint syntax.
+
+
+
+Clock Summary
+**************
+
+Start       Requested     Requested     Clock        Clock      
+Clock       Frequency     Period        Type         Group      
+----------------------------------------------------------------
+FAB_CLK     50.0 MHz      20.000        declared     clk_group_0
+FCLK        50.0 MHz      20.000        declared     clk_group_0
+================================================================

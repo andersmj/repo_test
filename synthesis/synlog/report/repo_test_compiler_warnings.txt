@@ -1,0 +1,19 @@
+@W: CL240 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":38:10:38:21|LPXIN_CLKOUT is not assigned a value (floating) -- simulation mismatch possible. 
+@W: CL240 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":37:10:37:23|MAINXIN_CLKOUT is not assigned a value (floating) -- simulation mismatch possible. 
+@W: CL240 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":36:10:36:21|RCOSC_CLKOUT is not assigned a value (floating) -- simulation mismatch possible. 
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":10:10:10:13|Input CLKA is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":11:10:11:17|Input CLKA_PAD is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":12:10:12:18|Input CLKA_PADP is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":13:10:13:18|Input CLKA_PADN is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":14:10:14:13|Input CLKB is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":15:10:15:17|Input CLKB_PAD is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":16:10:16:18|Input CLKB_PADP is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":17:10:17:18|Input CLKB_PADN is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":18:10:18:13|Input CLKC is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":19:10:19:17|Input CLKC_PAD is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":20:10:20:18|Input CLKC_PADP is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":21:10:21:18|Input CLKC_PADN is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":22:10:22:16|Input MAINXIN is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":23:10:23:14|Input LPXIN is unused
+@W: CL159 :"C:\Actelprj\repo_test\component\work\repo_test_MSS\MSS_CCC_0\repo_test_MSS_tmp_MSS_CCC_0_MSS_CCC.vhd":24:10:24:16|Input MAC_CLK is unused
+

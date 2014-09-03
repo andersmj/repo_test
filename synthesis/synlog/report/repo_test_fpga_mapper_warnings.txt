@@ -1,0 +1,3 @@
+@W: FP157 :"c:\actelprj\repo_test\component\work\repo_test\repo_test.vhd":227:0:227:7|Found instantiated global clock buffer in clock path for net clkdiv_0_CLK10H. Cannot promote clock net with multiple global clock buffers in series.
+@W: MT246 :"c:\actelprj\repo_test\component\work\repo_test_mss\repo_test_mss.vhd":1967:0:1967:11|Blackbox TRIBUFF_MSS is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) 
+@W: MT420 |Found inferred clock clkdiv|clk10h_sig_inferred_clock with period 10.00ns. Please declare a user-defined clock on object "n:clkdiv_0.clk10h_sig"

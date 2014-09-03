@@ -1,0 +1,18 @@
+Microsemi Libero Software
+Version: 11.3.0.112
+Release: v11.3
+
+Info: The design C:/Actelprj/repo_test/designer/impl1/repo_test.adb was last modified by
+      software version 11.3.0.112.
+Opened an existing Libero design C:/Actelprj/repo_test/designer/impl1/repo_test.adb.
+
+The Export-map command succeeded ( 00:00:12 )
+CHECKSUM: 0E5B
+Wrote to the file: C:\Actelprj\repo_test\designer\impl1\repo_test.fdb
+
+The Export command succeeded ( 00:00:14 )
+Design saved to file C:/Actelprj/repo_test/designer/impl1/repo_test.adb.
+
+The Execute Script command succeeded ( 00:00:15 )
+Design closed.
+
