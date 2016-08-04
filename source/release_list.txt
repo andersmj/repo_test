@@ -1,0 +1,12 @@
+monitor_8b10b_p.vhd
+pma_receive_e.vhd
+pma_receive_b.vhd
+ten_bit_monitor_e.vhd
+ten_bit_monitor_b.vhd
+synchronisation_e.vhd
+synchronisation_b.vhd
+monitor_8b10b_core_e.vhd
+monitor_8b10b_core_a.vhd
+monitor_8b10b_e.vhd
+monitor_8b10b_a.vhd
+compile_order.txt
